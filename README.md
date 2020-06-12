@@ -33,7 +33,7 @@ Se utilizo la base de datos relacional embebida que ofrece la tecnología Spring
 
 El modelo datos definido para la aplicación esta definido en el siguiente modelo entidad relación.
 
-![alt text](src/main/resources/images/mer.png)
+![alt text](images/mer.png)
 
 
 ## Iniciar aplicación
@@ -64,5 +64,5 @@ https://github.com/Luisfben/SpringBoot-BackEnd-Angular-FrontEnd-TechnicalTest/tr
 
 `http://localhost:4200/`
 
-![alt text](src/main/resources/images/screen.png)
+![alt text](images/front-end1.png)
 
